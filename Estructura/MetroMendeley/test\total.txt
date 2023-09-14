@@ -1,0 +1,5 @@
+
+/Users/victorpointud/Documents/Unimet/Estructura/MetroMendeley3/test/resumen1.txt
+/Users/victorpointud/Documents/Unimet/Estructura/MetroMendeley3/test/resumen2.txt
+/Users/victorpointud/Documents/Unimet/Estructura/MetroMendeley3/test/resumen3.txt
+/Users/victorpointud/Documents/Unimet/Estructura/MetroMendeley3/test/resumen4.txt
